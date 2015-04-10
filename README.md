@@ -1,2 +1,2 @@
 # react-native-intro-demo
-Live demo code from my short introductory presentation of React-Native.
+This is the demo code written during my short introductory presentation on React-Native.
